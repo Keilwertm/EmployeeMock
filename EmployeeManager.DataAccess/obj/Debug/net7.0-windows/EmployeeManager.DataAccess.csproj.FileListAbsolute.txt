@@ -1,0 +1,5 @@
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.DataAccess\obj\Debug\net7.0-windows\EmployeeManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.DataAccess\obj\Debug\net7.0-windows\EmployeeManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.DataAccess\obj\Debug\net7.0-windows\EmployeeManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.DataAccess\obj\Debug\net7.0-windows\EmployeeManager.DataAccess.AssemblyInfo.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.DataAccess\obj\Debug\net7.0-windows\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache

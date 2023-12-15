@@ -1,0 +1,42 @@
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\EmployeeManager.WinUi (Package).wapproj.CoreCompileInputs.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\App.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\Microsoft.WinUI.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\Microsoft.Windows.SDK.NET.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\WinRT.Runtime.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.deps.json
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.runtimeconfig.dev.json
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\App.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\MainWindow.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.exe
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.runtimeconfig.json
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.pdb
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\resources.pri
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi (Package).build.appxrecipe
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\EmployeeManager.WinUi (Package).wapproj.AssemblyReference.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\EmployeeManager.WinUi.pri.xml
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x64\Debug\EmployeeManager.WinUi (Package).wapproj.LastBuild.txt
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\Properties\Images\logo.png
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\Properties\Images\logo.png
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\Controls\HeaderControl.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x64\Debug\EmployeeManager.WinUi\Controls\HeaderControl.xbf

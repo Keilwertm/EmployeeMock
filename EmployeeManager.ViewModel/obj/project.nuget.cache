@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNZVNsWOUPBHG5fabsDqy84/yKi/l7v2SIwqt8hFwHLNzFgUkN2FG94D4qu9myCvJ1jbpk7YD/P0qls2Ve8oxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkeilwert\\Desktop\\03\\demos\\before\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkeilwert\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mkeilwert\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mkeilwert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

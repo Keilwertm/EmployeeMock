@@ -1,0 +1,12 @@
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.csproj.AssemblyReference.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\App.g.i.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\App.g.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.g.i.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.g.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\App.xaml
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xaml
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x64\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,15 @@
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.csproj.AssemblyReference.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.AssemblyInfoInputs.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.AssemblyInfo.cs
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\bin\Debug\net5.0\EmployeeManager.deps.json
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\bin\Debug\net5.0\EmployeeManager.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\bin\Debug\net5.0\EmployeeManager.pdb
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.csproj.CopyComplete
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\refint\EmployeeManager.dll
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\EmployeeManager.pdb
+C:\Users\mkeilwert\Desktop\03\demos\before\EmployeeManager\obj\Debug\net5.0\ref\EmployeeManager.dll
